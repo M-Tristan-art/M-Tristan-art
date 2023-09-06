@@ -1,4 +1,4 @@
-[![MasterHead](https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)](https://www.linkedin.com/in/tristan-pierre-louis-a211bb252/)
+[![MasterHead](https://media.discordapp.net/attachments/1032637160253296651/1148875555886870558/banner.png?width=1342&height=671)
 <h1 align="center">Hi 👋, I'm Tristan</h1>
 <h3 align="center">A fullstack learning developer from France</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
